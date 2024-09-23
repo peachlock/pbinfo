@@ -8,7 +8,7 @@ using namespace std;
 // program begins
 int main()
 {
-  // Prints hello world
+  // Prints hello world from peacklock
   cout << "Hello World\n";
 
   return 0;

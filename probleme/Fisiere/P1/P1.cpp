@@ -8,7 +8,6 @@ int main()
 {
   int n, d;
   fin >> n;
-  fin.close();
 
   for (d = n; d >= 2; d--)
   {

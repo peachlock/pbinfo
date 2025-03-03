@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// divizori comuni a doua numere
 int main()
 {
   int a, b;

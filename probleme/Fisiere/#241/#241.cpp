@@ -45,7 +45,11 @@ int main()
 
   // afisarea noului sir
   for (i = 1; i <= k; i++)
+  {
     fout << c[i] << " ";
+    if (i % 10 == 0)
+      fout << endl;
+  }
 
   return 0;
 }

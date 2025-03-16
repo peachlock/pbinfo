@@ -4,7 +4,7 @@
       "name": "C/C++: clang++ build and debug active file",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/out/${fileBasenameNoExtension}",
+      "program": "${workspaceFolder}/${fileDirnameBasename}/out/${fileBasenameNoExtension}",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",

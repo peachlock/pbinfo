@@ -2,8 +2,8 @@
 #include <fstream>
 
 using namespace std;
-ifstream fin("date.in");
-ofstream fout("date.out");
+ifstream fin("../date.in");
+ofstream fout("../date.out");
 
 int main()
 {

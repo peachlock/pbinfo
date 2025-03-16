@@ -2,9 +2,9 @@
 #include <fstream>
 using namespace std;
 
-ifstream fin("numere.txt")
+ifstream fin("../numere.txt");
 
-    int main()
+int main()
 {
   int k, n, a, i;
   fin >> k;
@@ -13,7 +13,6 @@ ifstream fin("numere.txt")
     fin >> a;
     int ca = a;
     ca = a % 10;
-    if
   }
 
   return 0;

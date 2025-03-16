@@ -2,8 +2,8 @@
 #include <fstream>
 using namespace std;
 
-ifstream fin("paresort.in");
-ofstream fout("paresort.out");
+ifstream fin("../paresort.in");
+ofstream fout("../paresort.out");
 
 int main()
 {
@@ -25,7 +25,7 @@ int main()
   }
 
   if (m == 0)
-    fout >> "Nu exista";
+    fout << "Nu exista";
   if (m > 0)
   {
     fout << m << endl;

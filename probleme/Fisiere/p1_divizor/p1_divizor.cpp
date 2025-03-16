@@ -2,7 +2,7 @@
 #include <fstream>
 
 using namespace std;
-ifstream fin("divizor.txt");
+ifstream fin("../divizor.txt");
 
 int main()
 {

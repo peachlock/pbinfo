@@ -5,8 +5,8 @@
 #include <fstream>
 using namespace std;
 
-ifstream fin("interclasare.in");
-ofstream fout("interclasare.out");
+ifstream fin("../interclasare.in");
+ofstream fout("../interclasare.out");
 
 int main()
 {

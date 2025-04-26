@@ -1,5 +1,11 @@
 {
     "conventionalCommits.scopes": [
         "config"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "limits": "cpp",
+        "ratio": "cpp",
+        "algorithm": "cpp"
+    }
 }

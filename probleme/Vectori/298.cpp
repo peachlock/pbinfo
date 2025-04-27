@@ -21,7 +21,7 @@ int main()
     }
   }
 
-    for (i = 1; i <= n; i++)
+  for (i = 1; i <= n; i++)
     if (i >= min && i <= max)
       s = s + v[i];
 

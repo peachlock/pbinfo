@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-  int n, v[101], i, j, d, s, ok = 1;
+  int n, v[101], i, j, d, ok = 1;
 
   cin >> n;
 
